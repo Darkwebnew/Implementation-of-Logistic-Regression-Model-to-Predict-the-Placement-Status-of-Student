@@ -17,8 +17,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Program:
 ```c
-## Developed by: Sriram V
-## RegisterNumber: 212222240021
+## Developed by: 
+## RegisterNumber:
 
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
